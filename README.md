@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia 🇷🇺</h3>
 
-- 🌱 I’m developer **Vue.js** on a project **HiHub** 
+- 🌱 I’m developer **Vue.js** 
 
 - 📫 How to reach me tg: [lyublueberry](https://t.me/lyublueberry)
 
